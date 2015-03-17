@@ -1,0 +1,13 @@
+# BigFS config YAML 
+
+KEYSPACE: BigFS
+
+COLUMN_FAMILY: Directories
+
+listen_address: localhost
+listen_port: 9161
+
+data_dir: /tmp/bigfs/data
+
+read_consistency: ONE
+write_consistency: ONE
