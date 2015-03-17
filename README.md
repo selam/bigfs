@@ -7,7 +7,7 @@ bigFS was designed for web files like images and videos, files was writing to di
 
 Run
 ====
-bin/cassandra 
+bin/cassandra  
 python src/python/clientTest.py
 
 
